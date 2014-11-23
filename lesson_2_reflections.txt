@@ -37,3 +37,9 @@ commits are lost when removing a branch.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Automatic merging makes simple merge task easy. This allows the user not to have to
+go into the code and decide what to merge. The benefit of manual merging is that 
+complicated merging task rely on the user to understand what is going on and 
+approve it. This will prevent erronious errors. The negative of this is that it is
+takes more time and still can generate errors if the user is not careful.
