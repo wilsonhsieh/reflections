@@ -25,6 +25,9 @@ so, if you need to revert or combine the code later, it would be easy.
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams give a visual representation of what is happening. For a visual learner
+like myself, diagrams are vital for me to understand what is going on.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
