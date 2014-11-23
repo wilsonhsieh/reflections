@@ -34,7 +34,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would be using SVN or some other method of sharing and document file changes.
+    This would be harder due to not having offline access. Also Git and GitHub are
+    very fast processes that help document changes really well. The only benefit of
+    not using Git and GitHub is I would have avoided the learn curve.... Too late!
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
