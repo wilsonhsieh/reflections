@@ -8,7 +8,10 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Sometimes some of the suggestions by other people are not changes you
+    want to make. Another reason would be when you are coding out an experimental
+    feature. You may want to get the code in better shape before releasing to the
+    public.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
