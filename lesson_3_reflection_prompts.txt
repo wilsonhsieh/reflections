@@ -42,4 +42,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    By having a different branch, you can keep track of seperate concepts and changes
+    from the published master. This allows devs to be able to take more risk with new
+    ideas with out the risk of breaking their already working code.
