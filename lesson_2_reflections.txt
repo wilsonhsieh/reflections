@@ -31,5 +31,9 @@ like myself, diagrams are vital for me to understand what is going on.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The merging of 2 branches allow other users/features/bugs to be commited with the
+master copy. The diagrams represent what is happening and is vital to make sure no 
+commits are lost when removing a branch.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
